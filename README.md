@@ -23,88 +23,9 @@ Within this repo you can get an overview what kind of projects I did during the 
 
 [Course Overview Page](https://www.udacity.com/course/agentic-ai--nd900)
 
-<details>
-
-<summary> Description by Udacity</summary>
+**Description by Udacity**
 
 Go beyond single chatbots to engineer sophisticated, coordinated teams of AI agents. This Nanodegree guides you from advanced prompting techniques like Chain-of-Thought and ReAct to designing agentic workflows with patterns like Routing and Parallelization. You'll master building and orchestrating agents in Python that can reason, plan, and use tools to interact with databases and external APIs. Build a powerful portfolio by tackling hands-on projects, including a multi-agent travel planner, an AI-powered project manager, and a fully automated sales system, to solve real-world problems.
-
-</details>
-
-<details>
-<summary> Skills </summary>
-
-Prompting & Reasoning
-
-- Prompting for Effective LLM Reasoning and Planning
-- Iterative Prompt Development
-- Implementing Role-Based Prompting
-- Persona-Based Prompt Design
-- Feedback Loop Design
-- Implementing Feedback Loops
-- Systematic Prompt Refinement
-- Implementing Prompt Chains
-- Prompt Chain Design
-- Chain-of-Thought (CoT) & ReAct
-- Agentic Reasoning Frameworks
-
-Agentic Workflows
-
-- Agentic Workflows
-- Agentic Workflow Design & Visualization
-- Agentic Task Routing
-- Agentic Task Routing Design
-- Sequential Task Decomposition for Prompt Chaining
-- Agent Orchestration Design
-- Implementing Agent Orchestration
-- Implementing Agentic Workflows
-- Agentic Iterative Refinement Workflow Design
-- Implementing Sequential Task Prompt Chain Workflows
-- Implementing Parallel Agent Workflows
-- Agentic Parallel Workflow Design
-- Implementing Reflective AI Workflows
-
-Building Agents
-
-- Building Agents
-- API Integration for Agents
-- Implementing API Integration for Agents
-- State Management for AI Agents
-- Implementing State Management for AI Agents
-- Agent Memory Design
-- Implementing Agent Memory
-- Long-Term Memory Management for AI Agents
-- Implementing Long-Term Memory Management
-- Agent Tool Use
-- Implementing Agent Tool Use
-- Database Interaction for AI Agents
-- Implementing Database Interaction for AI Agents
-- Web Search Integration & Data Retrieval
-- Implementing Web Search Integration & Data Retrieval
-- Evaluating AI Agents
-- Implementing AI Agent Evaluation
-- LLM Structured Outputs
-- Implementing LLM Structured Outputs
-- Single-Agent Retrieval-Augmented Generation (RAG)
-- Implementing Single-Agent RAG
-
-Multi-Agent Systems
-
-- Multi-Agent Systems
-- Multi-Agent System Design
-- Multi-Agent Implementation
-- Multi-Agent Routing Concepts
-- Implementing Multi-Agent Routing
-- Multi-Agent State Management Concepts
-- Implementing Multi-Agent State Management
-- Multi-Agent State Coordination Concepts
-- Implementing Multi-Agent State Coordination
-- Multi-Agent Agent Orchestration Concepts
-- Implementing Multi-Agent Orchestration
-- Multi-Agent RAG Concepts
-- Implementing Multi-Agent RAG
-
-</details>
 
 ### AgentsVille Trip Planner: A Multi-Agent Travel Assistant System
 
