@@ -20,6 +20,11 @@ Within this repo you can get an overview what kind of projects I did during the 
   - [AI Programming with Python](#ai-programming-with-python)
     - [Dog Breed Classifier](#dog-breed-classifier)
     - [Flower Classifier](#flower-classifier)
+  - [Statistics for Data Analysis](#statistics-for-data-analysis)
+    - [Health and Sleep Quality](#health-and-sleep-quality)
+    - [Basketball Scoring](#basketball-scoring)
+    - [A/B Testing](#ab-testing)
+    - [Model Salary Data with Linear Regression](#model-salary-data-with-linear-regression)
 
 
 ## Agentic AI
@@ -74,3 +79,34 @@ Use Python code and a created image classifier to identify dog breeds.
 
 Build a Python application that can train an image classifier on a dataset, then predict new images using the trained model.
 
+## Statistics for Data Analysis
+
+[Couse Overview Page](https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588)
+
+**Description by Udacity**
+
+Learn core statistics for data analysis, including probability, regression, and experiment design. Build practical Python skills to analyze data and prepare for analyst and data scientist roles.
+
+### Health and Sleep Quality
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Health-and-Sleep)
+
+Describe data related to health and sleep quality. Using the software of your choice to calculate descriptive statistics about a dataset, you’ll report your findings in a slide deck presentation.
+
+### Basketball Scoring
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Basketball-Scoring)
+
+Analyze data related to basketball shooting statistics. You’ll use the software of your choice to calculate probabilities related to a dataset, then report your findings in a slide deck presentation.
+
+### A/B Testing
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-A-B-Testing)
+
+You will be working to understand the results of an A/B test run by an e-commerce website. Your goal is to work through to help the company understand if they should implement the new page design.
+
+### Model Salary Data with Linear Regression
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Linear-Regression-Salary-Model)
+
+Build a linear model and interpret the results of the model. Specifically, you will look at what variables are related to salaries.
