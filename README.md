@@ -20,6 +20,10 @@ Within this repo you can get an overview what kind of projects I did during the 
   - [AI Programming with Python](#ai-programming-with-python)
     - [Dog Breed Classifier](#dog-breed-classifier)
     - [Flower Classifier](#flower-classifier)
+  - [Data Analyst](#data-analyst)
+    - [Investigate a Dataset](#investigate-a-dataset)
+    - [Real World Data Wrangling with Python](#real-world-data-wrangling-with-python)
+    - [Communicate Data Findings](#communicate-data-findings)
   - [Statistics for Data Analysis](#statistics-for-data-analysis)
     - [Health and Sleep Quality](#health-and-sleep-quality)
     - [Basketball Scoring](#basketball-scoring)
@@ -78,6 +82,32 @@ Use Python code and a created image classifier to identify dog breeds.
 [GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Flower-Classifier)
 
 Build a Python application that can train an image classifier on a dataset, then predict new images using the trained model.
+
+## Data Analyst
+
+[Course Overview Page](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+**Description by Udacity**
+
+Clean up messy data, uncover patterns and insights, and communicate your findings. You'll start with an introduction to data analysis tools, including Jupyter Notebook, NumPy, pandas, and Matplotlib. Using these tools, you will ask questions about data and answer them through data collection, exploration, wrangling, and visualization. This intermediate-level program includes real-world projects where you will choose your own datasets, research questions, and analysis approach. As you progress through the program, each course will repeat the data analysis process while introducing more advanced techniques, such as applying data imputation to fill in missing data and applying appropriate encodings when developing data visualizations.
+
+### Investigate a Dataset
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Dataset-Investigation-TMDB)
+
+Choose one of Udacity's curated datasets, perform an investigation, and share your findings.
+
+### Real World Data Wrangling with Python
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Data-Wrangling)
+
+Apply the skills you acquired in the course by gathering, assessing, and cleaning multiple real-world datasets of your choice.
+
+### Communicate Data Findings
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Communicate-Data-Findings)
+
+Choose a dataset, either your own or a Udacity-curated dataset, and perform an exploratory data analysis using Python. Then, create a presentation with explanatory plots that conveys your findings.
 
 ## Statistics for Data Analysis
 
