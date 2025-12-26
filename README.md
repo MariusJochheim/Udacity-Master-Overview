@@ -108,7 +108,7 @@ Multi-Agent Systems
 
 ### AgentsVille Trip Planner: A Multi-Agent Travel Assistant System
 
-INSERT LINK
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-AgentsVille)
 
 Build an agentic travel assistant system, the "AgentsVille Trip Planner"
 
