@@ -41,7 +41,7 @@ Build a comprehensive, reusable library of different agent types and then use th
 
 ### UdaPlay - An AI Research Agent for the Video Game Industry
 
-INSERT LINK
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-UdaPlay)
 
 Build a stateful AI Research Agent designed to explore the video game industry.
 
