@@ -29,6 +29,10 @@ Within this repo you can get an overview what kind of projects I did during the 
     - [Landmark Classification \& Tagging for Social Media](#landmark-classification--tagging-for-social-media)
     - [Text Translation and Sentiment Analysis using Transformers](#text-translation-and-sentiment-analysis-using-transformers)
     - [Face Generation](#face-generation)
+  - [Generative AI](#generative-ai)
+    - [Teaching an LLM to Count](#teaching-an-llm-to-count)
+    - [NASA Mission Intelligence: Developing a RAG-Based Chatbot](#nasa-mission-intelligence-developing-a-rag-based-chatbot)
+    - [OmniTrainer: Multimodal Customer Service Trainer](#omnitrainer-multimodal-customer-service-trainer)
   - [Introduction to Machine Learning with Python](#introduction-to-machine-learning-with-python)
     - [Finding Donors Project](#finding-donors-project)
     - [Create Your Own Image Classifier](#create-your-own-image-classifier)
@@ -147,6 +151,32 @@ In this project, you will apply the skills you have acquired in the Convolutiona
 [GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Face-Generation)
 
 Define two adversarial networks, a generator, and a discriminator, and train them until you can generate realistic faces.
+
+## Generative AI
+
+[Course Overview Page](https://www.udacity.com/course/generative-ai--nd608)
+
+**Description by Udacity**
+
+Ready to build production-grade AI? This program equips developers to deploy reliable generative AI solutions. We'll move past theory and focus on the proven implementation patterns you need. You'll master production essentials like model selection, cost estimation, and reliable prompt engineering to build efficient apps. You'll also implement lightweight model adaptation using PEFT. Then, you'll build end-to-end RAG systems, using vector databases to connect LLMs to your data and evaluate quality with frameworks like RAGAs. Finally, you'll dive into advanced multimodal applications that process text, images, and audio. You'll enforce structured outputs with Pydantic and implement system observability to build, trace, and debug modern AI apps.
+
+### Teaching an LLM to Count
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Counting-LLM)
+
+Teaching an LLM to count the number of letters in a word using GRPO.
+
+### NASA Mission Intelligence: Developing a RAG-Based Chatbot
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-NASA-Chatbot)
+
+Build an end-to-end RAG chatbot. Ingest NASA mission data, build a vector search pipeline, generate answers, and evaluate the system's quality.
+
+### OmniTrainer: Multimodal Customer Service Trainer
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-OmniTrainer)
+
+In this project, students will create an AI agent that simulates customer service scenarios and specialized monitoring agents that analyze communications across text, images, videos, and audio.
 
 ## Introduction to Machine Learning with Python
 
