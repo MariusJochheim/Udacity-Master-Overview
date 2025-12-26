@@ -17,6 +17,9 @@ Within this repo you can get an overview what kind of projects I did during the 
     - [AI-Powered Agentic Workflow for Project Management](#ai-powered-agentic-workflow-for-project-management)
     - [UdaPlay - An AI Research Agent for the Video Game Industry](#udaplay---an-ai-research-agent-for-the-video-game-industry)
     - [The Beaver's Choice Paper Company Sales Team](#the-beavers-choice-paper-company-sales-team)
+  - [AI Programming with Python](#ai-programming-with-python)
+    - [Dog Breed Classifier](#dog-breed-classifier)
+    - [Flower Classifier](#flower-classifier)
 
 
 ## Agentic AI
@@ -51,4 +54,23 @@ Build a stateful AI Research Agent designed to explore the video game industry.
 
 Design and build a complete multi-agent system for a real-world business scenario incorporating architecture orchestration state management and routing.
 
-</Details>
+## AI Programming with Python
+
+[Course Overview Page](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
+
+**Description by Udacity**
+
+Develop a strong foundation in Python programming for AI, utilizing tools like NumPy, pandas, and Matplotlib for data analysis and visualization. Learn how to use, build, and train machine learning models with popular Python libraries. Implement neural networks using PyTorch. Gain practical experience with deep learning frameworks by applying your skills through hands-on projects. Explore generative AI with Transformer neural networks, learn to build, train, and deploy them with PyTorch, and leverage pre-trained models for natural language processing tasks. Designed for individuals with basic programming experience, this program prepares you for advanced studies in AI and machine learning, equipping you with the skills to begin a career in AI programming.
+
+### Dog Breed Classifier
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Dog-Breed-Classifier)
+
+Use Python code and a created image classifier to identify dog breeds.
+
+### Flower Classifier
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Flower-Classifier)
+
+Build a Python application that can train an image classifier on a dataset, then predict new images using the trained model.
+
