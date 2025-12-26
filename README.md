@@ -24,6 +24,10 @@ Within this repo you can get an overview what kind of projects I did during the 
     - [Investigate a Dataset](#investigate-a-dataset)
     - [Real World Data Wrangling with Python](#real-world-data-wrangling-with-python)
     - [Communicate Data Findings](#communicate-data-findings)
+  - [Introduction to Machine Learning with Python](#introduction-to-machine-learning-with-python)
+    - [Finding Donors Project](#finding-donors-project)
+    - [Create Your Own Image Classifier](#create-your-own-image-classifier)
+    - [Identify Customer Segments](#identify-customer-segments)
   - [Statistics for Data Analysis](#statistics-for-data-analysis)
     - [Health and Sleep Quality](#health-and-sleep-quality)
     - [Basketball Scoring](#basketball-scoring)
@@ -108,6 +112,32 @@ Apply the skills you acquired in the course by gathering, assessing, and cleanin
 [GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Communicate-Data-Findings)
 
 Choose a dataset, either your own or a Udacity-curated dataset, and perform an exploratory data analysis using Python. Then, create a presentation with explanatory plots that conveys your findings.
+
+## Introduction to Machine Learning with Python
+
+[Course Overview Page](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
+
+**Description by Udacity**
+
+Learn to build powerful models in this Machine Learning Nanodegree with PyTorch. Master supervised, unsupervised, and deep learning techniques through projects involving customer segmentation and image classification.
+
+### Finding Donors Project
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Finding-Donors)
+
+You've covered a wide variety of methods for performing supervised learning -- now it's time to put those into action!
+
+### Create Your Own Image Classifier
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Image-Classifier)
+
+In this project, you'll create your own image classifier and then train—and evaluate its performance—using one of the most classic and well-studied computer vision data sets, CIFAR-10.
+
+### Identify Customer Segments
+
+**Proprietary dataset does not allow for publication**
+
+In this project, you'll apply your unsupervised learning skills to two demographics datasets, to identify segments and clusters in the population, and see how customers of a company map to them.
 
 ## Statistics for Data Analysis
 
