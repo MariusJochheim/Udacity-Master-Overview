@@ -24,6 +24,11 @@ Within this repo you can get an overview what kind of projects I did during the 
     - [Investigate a Dataset](#investigate-a-dataset)
     - [Real World Data Wrangling with Python](#real-world-data-wrangling-with-python)
     - [Communicate Data Findings](#communicate-data-findings)
+  - [Deep Learning](#deep-learning)
+    - [Developing a Handwritten Digits Classifier with PyTorch](#developing-a-handwritten-digits-classifier-with-pytorch)
+    - [Landmark Classification \& Tagging for Social Media](#landmark-classification--tagging-for-social-media)
+    - [Text Translation and Sentiment Analysis using Transformers](#text-translation-and-sentiment-analysis-using-transformers)
+    - [Face Generation](#face-generation)
   - [Introduction to Machine Learning with Python](#introduction-to-machine-learning-with-python)
     - [Finding Donors Project](#finding-donors-project)
     - [Create Your Own Image Classifier](#create-your-own-image-classifier)
@@ -112,6 +117,36 @@ Apply the skills you acquired in the course by gathering, assessing, and cleanin
 [GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Communicate-Data-Findings)
 
 Choose a dataset, either your own or a Udacity-curated dataset, and perform an exploratory data analysis using Python. Then, create a presentation with explanatory plots that conveys your findings.
+
+## Deep Learning
+
+[Course Overview Page](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+
+**Description by Udacity**
+
+Build foundational skills in deep learning by designing and training neural networks to solve complex real-world problems. You’ll begin with the essentials of neural networks, advancing to specialized architectures like Convolutional and Recurrent Neural Networks, along with Generative Adversarial Networks. Through projects, create models for applications such as image classification, sentiment analysis, and face generation, gaining hands-on experience with PyTorch and advanced training techniques. Ideal for those aiming to harness the potential of deep learning, this experience prepares you to tackle AI challenges across various domains.
+
+### Developing a Handwritten Digits Classifier with PyTorch
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Digits-Classifier)
+
+In this project, you will use your skills in designing and training neural networks to classify handwritten digits using the well-known MNIST dataset.
+
+### Landmark Classification & Tagging for Social Media
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Landmark-Classification)
+
+In this project, you will apply the skills you have acquired in the Convolutional Neural Network (CNN) course to build a landmark classifier.
+
+### Text Translation and Sentiment Analysis using Transformers
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Text-Translation)
+
+### Face Generation
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Face-Generation)
+
+Define two adversarial networks, a generator, and a discriminator, and train them until you can generate realistic faces.
 
 ## Introduction to Machine Learning with Python
 
