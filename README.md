@@ -35,7 +35,7 @@ Build an agentic travel assistant system, the "AgentsVille Trip Planner"
 
 ### AI-Powered Agentic Workflow for Project Management
 
-INSERT LINK
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Agentic-Workflow)
 
 Build a comprehensive, reusable library of different agent types and then use them to create a multi-step agentic workflow to manage a technical project.
 
