@@ -19,6 +19,7 @@ Within this repo you can get an overview what kind of projects I did during the 
     - [The Beaver's Choice Paper Company Sales Team](#the-beavers-choice-paper-company-sales-team)
   - [Agentic AI Engineer with LangChain and LangGraph](#agentic-ai-engineer-with-langchain-and-langgraph)
     - [Report-Building Agent](#report-building-agent)
+    - [Energy Advisor](#energy-advisor)
   - [AI Programming with Python](#ai-programming-with-python)
     - [Dog Breed Classifier](#dog-breed-classifier)
     - [Flower Classifier](#flower-classifier)
@@ -91,6 +92,12 @@ Agentic AI Engineer with LangChain and LangGraph is a program that teaches Pytho
 [GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Report-Building-Agent)
 
 Build a document processing system using LangChain/LangGraph. You'll create an AI assistant that answers questions, summarize documents, and perform calculations on financial and healthcare documents.
+
+### Energy Advisor
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Energy-Advisor)
+
+In this project, you’ll build an AI agent with LangChain to optimize EcoHome energy use, integrating APIs, a database, and vector search, with LangGraph orchestration and evaluation.
 
 ## AI Programming with Python
 
