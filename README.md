@@ -17,6 +17,8 @@ Within this repo you can get an overview what kind of projects I did during the 
     - [AI-Powered Agentic Workflow for Project Management](#ai-powered-agentic-workflow-for-project-management)
     - [UdaPlay - An AI Research Agent for the Video Game Industry](#udaplay---an-ai-research-agent-for-the-video-game-industry)
     - [The Beaver's Choice Paper Company Sales Team](#the-beavers-choice-paper-company-sales-team)
+  - [Agentic AI Engineer with LangChain and LangGraph](#agentic-ai-engineer-with-langchain-and-langgraph)
+    - [Report-Building Agent](#report-building-agent)
   - [AI Programming with Python](#ai-programming-with-python)
     - [Dog Breed Classifier](#dog-breed-classifier)
     - [Flower Classifier](#flower-classifier)
@@ -75,6 +77,20 @@ Build a stateful AI Research Agent designed to explore the video game industry.
 [GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Beavers-Choice)
 
 Design and build a complete multi-agent system for a real-world business scenario incorporating architecture orchestration state management and routing.
+
+## Agentic AI Engineer with LangChain and LangGraph
+
+[Course Overview Page](https://www.udacity.com/course/agentic-ai-engineer-with-langchain-and-langgraph--nd901)
+
+**Description by Udacity**
+
+Agentic AI Engineer with LangChain and LangGraph is a program that teaches Python developers how to turn large‑language‑model applications into fully autonomous agents.  You begin with LangChain fundamentals—prompt templates, chains, memory, and single‑tool agents—then progress to multi‑tool planning, self‑critique loops, and deployment practices. Finally, you integrate external knowledge through retrieval‑augmented generation, long‑term memory, and multi‑agent collaboration.
+
+### Report-Building Agent
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Report-Building-Agent)
+
+Build a document processing system using LangChain/LangGraph. You'll create an AI assistant that answers questions, summarize documents, and perform calculations on financial and healthcare documents.
 
 ## AI Programming with Python
 
