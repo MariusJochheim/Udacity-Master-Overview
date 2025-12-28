@@ -20,6 +20,7 @@ Within this repo you can get an overview what kind of projects I did during the 
   - [Agentic AI Engineer with LangChain and LangGraph](#agentic-ai-engineer-with-langchain-and-langgraph)
     - [Report-Building Agent](#report-building-agent)
     - [Energy Advisor](#energy-advisor)
+    - [Autonomous Knowledge Agent](#autonomous-knowledge-agent)
   - [AI Programming with Python](#ai-programming-with-python)
     - [Dog Breed Classifier](#dog-breed-classifier)
     - [Flower Classifier](#flower-classifier)
@@ -98,6 +99,12 @@ Build a document processing system using LangChain/LangGraph. You'll create an A
 [GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Energy-Advisor)
 
 In this project, you’ll build an AI agent with LangChain to optimize EcoHome energy use, integrating APIs, a database, and vector search, with LangGraph orchestration and evaluation.
+
+### Autonomous Knowledge Agent
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Autonomous-Knowledge-Agent)
+
+In this project, you will develop UDA-Hub, an intelligent, multi-agent decision suite capable of resolving customer support tickets across multiple platforms.
 
 ## AI Programming with Python
 
