@@ -37,6 +37,8 @@ Within this repo you can get an overview what kind of projects I did during the 
     - [Teaching an LLM to Count](#teaching-an-llm-to-count)
     - [NASA Mission Intelligence: Developing a RAG-Based Chatbot](#nasa-mission-intelligence-developing-a-rag-based-chatbot)
     - [OmniTrainer: Multimodal Customer Service Trainer](#omnitrainer-multimodal-customer-service-trainer)
+  - [Intermediate JavaScript](#intermediate-javascript)
+    - [Dinosaurs](#dinosaurs)
   - [Introduction to Machine Learning with Python](#introduction-to-machine-learning-with-python)
     - [Finding Donors Project](#finding-donors-project)
     - [Create Your Own Image Classifier](#create-your-own-image-classifier)
@@ -207,6 +209,20 @@ Build an end-to-end RAG chatbot. Ingest NASA mission data, build a vector search
 [GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-OmniTrainer)
 
 In this project, students will create an AI agent that simulates customer service scenarios and specialized monitoring agents that analyze communications across text, images, videos, and audio.
+
+## Intermediate JavaScript
+
+[CourseOverviewPage](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032)
+
+**Description by Udacity**
+
+The goal of this program is to prepare students for roles in web development, server-side application development, and desktop development that require advanced JavaScript skills.
+
+### Dinosaurs
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Dinosaurs)
+
+You will be building an infographic that is derived from data that is provided, as well as user input data. Object-oriented javascript is great for working with complex data, but it’s not of much use without an interface to interact with. You will be pulling in information from a form and using it to complete an array of objects that will then be appended back to the DOM.
 
 ## Introduction to Machine Learning with Python
 
