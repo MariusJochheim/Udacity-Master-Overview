@@ -40,6 +40,7 @@ Within this repo you can get an overview what kind of projects I did during the 
   - [Intermediate JavaScript](#intermediate-javascript)
     - [Dinosaurs](#dinosaurs)
     - [Mars Dashboard](#mars-dashboard)
+    - [UdaciRacer Simulator](#udaciracer-simulator)
   - [Introduction to Machine Learning with Python](#introduction-to-machine-learning-with-python)
     - [Finding Donors Project](#finding-donors-project)
     - [Create Your Own Image Classifier](#create-your-own-image-classifier)
@@ -230,6 +231,12 @@ You will be building an infographic that is derived from data that is provided, 
 [GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-NASA-Dashboard)
 
 In this project, you will create a dashboard that consumes the NASA API and applies all the functional programming learned throughout this course.
+
+### UdaciRacer Simulator
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-UdaciRacer)
+
+Demonstrate your mastery of asynchronous JavaScript by creating a racing game! You'll use callbacks, Promises, and Async/Await syntax to build out the key functionalities of the UdaciRacer Simulator.
 
 ## Introduction to Machine Learning with Python
 
