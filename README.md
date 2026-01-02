@@ -39,6 +39,7 @@ Within this repo you can get an overview what kind of projects I did during the 
     - [OmniTrainer: Multimodal Customer Service Trainer](#omnitrainer-multimodal-customer-service-trainer)
   - [Intermediate JavaScript](#intermediate-javascript)
     - [Dinosaurs](#dinosaurs)
+    - [Mars Dashboard](#mars-dashboard)
   - [Introduction to Machine Learning with Python](#introduction-to-machine-learning-with-python)
     - [Finding Donors Project](#finding-donors-project)
     - [Create Your Own Image Classifier](#create-your-own-image-classifier)
@@ -223,6 +224,12 @@ The goal of this program is to prepare students for roles in web development, se
 [GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Dinosaurs)
 
 You will be building an infographic that is derived from data that is provided, as well as user input data. Object-oriented javascript is great for working with complex data, but it’s not of much use without an interface to interact with. You will be pulling in information from a form and using it to complete an array of objects that will then be appended back to the DOM.
+
+### Mars Dashboard
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-NASA-Dashboard)
+
+In this project, you will create a dashboard that consumes the NASA API and applies all the functional programming learned throughout this course.
 
 ## Introduction to Machine Learning with Python
 
