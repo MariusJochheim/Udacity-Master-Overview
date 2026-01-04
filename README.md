@@ -45,6 +45,8 @@ Within this repo you can get an overview what kind of projects I did during the 
     - [Finding Donors Project](#finding-donors-project)
     - [Create Your Own Image Classifier](#create-your-own-image-classifier)
     - [Identify Customer Segments](#identify-customer-segments)
+  - [React](#react)
+    - [MyReadsMyReads: A Book Tracking App](#myreadsmyreads-a-book-tracking-app)
   - [Statistics for Data Analysis](#statistics-for-data-analysis)
     - [Health and Sleep Quality](#health-and-sleep-quality)
     - [Basketball Scoring](#basketball-scoring)
@@ -263,6 +265,20 @@ In this project, you'll create your own image classifier and then train—and ev
 **Proprietary dataset does not allow for publication**
 
 In this project, you'll apply your unsupervised learning skills to two demographics datasets, to identify segments and clusters in the population, and see how customers of a company map to them.
+
+## React
+
+[Course Overview Page](https://www.udacity.com/course/react-nanodegree--nd019)
+
+**Description by Udacity**
+
+React is completely transforming the Front-End Development landscape. Come master this powerful UI library, and learn career-ready skills with Udacity. You'll learn how to build declarative user interfaces for the web with React, and for iOS and Android with React Native. You'll also learn how to manage state more predictably in your applications with Redux.
+
+### MyReadsMyReads: A Book Tracking App
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-MyReads)
+
+In the MyReads project, you'll create a web application that allows you to select and categorize books you have read, are currently reading, or want to read.
 
 ## Statistics for Data Analysis
 
