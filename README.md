@@ -47,6 +47,7 @@ Within this repo you can get an overview what kind of projects I did during the 
     - [Identify Customer Segments](#identify-customer-segments)
   - [React](#react)
     - [MyReadsMyReads: A Book Tracking App](#myreadsmyreads-a-book-tracking-app)
+    - [Employee Polls Web App](#employee-polls-web-app)
   - [Statistics for Data Analysis](#statistics-for-data-analysis)
     - [Health and Sleep Quality](#health-and-sleep-quality)
     - [Basketball Scoring](#basketball-scoring)
@@ -279,6 +280,12 @@ React is completely transforming the Front-End Development landscape. Come maste
 [GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-MyReads)
 
 In the MyReads project, you'll create a web application that allows you to select and categorize books you have read, are currently reading, or want to read.
+
+### Employee Polls Web App
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Employee-Polls)
+
+HR needs a web app to create polls for employees to post and respond to scenario questions. Employees vote on responses and the dashboard lists employees by the number of polls created and answered.
 
 ## Statistics for Data Analysis
 
