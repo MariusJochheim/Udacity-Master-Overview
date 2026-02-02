@@ -24,6 +24,8 @@ Within this repo you can get an overview what kind of projects I did during the 
   - [AI Programming with Python](#ai-programming-with-python)
     - [Dog Breed Classifier](#dog-breed-classifier)
     - [Flower Classifier](#flower-classifier)
+  - [Backend Developer with Python](#backend-developer-with-python)
+    - [Fyyur](#fyyur)
   - [Data Analyst](#data-analyst)
     - [Investigate a Dataset](#investigate-a-dataset)
     - [Real World Data Wrangling with Python](#real-world-data-wrangling-with-python)
@@ -132,6 +134,20 @@ Use Python code and a created image classifier to identify dog breeds.
 [GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Flower-Classifier)
 
 Build a Python application that can train an image classifier on a dataset, then predict new images using the trained model.
+
+## Backend Developer with Python
+
+[Course Overview Page](https://www.udacity.com/course/backend-developer-with-python--nd0044)
+
+**Description by Udacity**
+
+Build real-world web applications from scratch. This Nanodegree teaches full stack development using Flask, SQL, and Docker with a focus on APIs, security, and deployment skills.
+
+### Fyyur
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Fyyur)
+
+In this project, you'll demonstrate your new SQL and data modeling skills by creating a site to help coordinate bookings between artists and venues.
 
 ## Data Analyst
 
