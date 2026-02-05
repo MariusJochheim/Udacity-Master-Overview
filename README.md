@@ -26,6 +26,7 @@ Within this repo you can get an overview what kind of projects I did during the 
     - [Flower Classifier](#flower-classifier)
   - [Backend Developer with Python](#backend-developer-with-python)
     - [Fyyur](#fyyur)
+    - [Trivia API](#trivia-api)
   - [Data Analyst](#data-analyst)
     - [Investigate a Dataset](#investigate-a-dataset)
     - [Real World Data Wrangling with Python](#real-world-data-wrangling-with-python)
@@ -148,6 +149,12 @@ Build real-world web applications from scratch. This Nanodegree teaches full sta
 [GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Fyyur)
 
 In this project, you'll demonstrate your new SQL and data modeling skills by creating a site to help coordinate bookings between artists and venues.
+
+### Trivia API
+
+[GitHub Repository](https://github.com/MariusJochheim/Udacity-Master-Trivia-App)
+
+In this project, you'll use your new API and API documentation skills to build a trivia API.
 
 ## Data Analyst
 
